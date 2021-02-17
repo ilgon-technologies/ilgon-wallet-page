@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": ".well-known/security.txt"
   },
   {
-    "revision": "d075ab5bc84768eae9ba",
+    "revision": "03ff7f6f3cd180f25d52",
     "url": "css/app.b68c57ec.css"
   },
   {
@@ -68,10 +68,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/chunk-550b6248.60c472be.css"
   },
   {
-    "revision": "d539803336f58a5593a3",
-    "url": "css/chunk-558abe71.5485c51f.css"
-  },
-  {
     "revision": "40426a91c10b8fd84fd1",
     "url": "css/chunk-57f8ef88.98f38749.css"
   },
@@ -114,6 +110,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5ad44a63e4b57fbb918e",
     "url": "css/chunk-7de5a671.84526be9.css"
+  },
+  {
+    "revision": "fe9ea81d5ee3b1058d2a",
+    "url": "css/chunk-7fcfa55e.7dd33336.css"
   },
   {
     "revision": "a50c75f7df2c13211512",
@@ -1136,12 +1136,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "index.css"
   },
   {
-    "revision": "dfc0899c4ee394f0d575afd3ab020c77",
+    "revision": "b36473e50da0a519be32a071a8135b2d",
     "url": "index.html"
   },
   {
-    "revision": "d075ab5bc84768eae9ba",
-    "url": "js/app.d22e30eb.js"
+    "revision": "03ff7f6f3cd180f25d52",
+    "url": "js/app.be158f52.js"
   },
   {
     "revision": "1f2799434abd1341f0d1",
@@ -1208,10 +1208,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/chunk-550b6248.eb7c2f10.js"
   },
   {
-    "revision": "d539803336f58a5593a3",
-    "url": "js/chunk-558abe71.b9af8b56.js"
-  },
-  {
     "revision": "40426a91c10b8fd84fd1",
     "url": "js/chunk-57f8ef88.bcb519ab.js"
   },
@@ -1254,6 +1250,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5ad44a63e4b57fbb918e",
     "url": "js/chunk-7de5a671.39bde6c1.js"
+  },
+  {
+    "revision": "fe9ea81d5ee3b1058d2a",
+    "url": "js/chunk-7fcfa55e.85a9f09f.js"
   },
   {
     "revision": "a50c75f7df2c13211512",
