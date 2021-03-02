@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": ".well-known/security.txt"
   },
   {
-    "revision": "a4fe5e44e321bb50ed29",
+    "revision": "18e79bf786ebd879e5f1",
     "url": "css/app.e364ede5.css"
   },
   {
@@ -1136,12 +1136,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "index.css"
   },
   {
-    "revision": "8f09cfb8f5e571a52e5dbbf98d27d7aa",
+    "revision": "109f3745ab3c4eb95e8087a9da3dca6c",
     "url": "index.html"
   },
   {
-    "revision": "a4fe5e44e321bb50ed29",
-    "url": "js/app.ac7bd1ee.js"
+    "revision": "18e79bf786ebd879e5f1",
+    "url": "js/app.5cdeb236.js"
   },
   {
     "revision": "b6074dbfbead246e0f86",
